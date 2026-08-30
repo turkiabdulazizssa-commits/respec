@@ -8,6 +8,7 @@ ReSpec is a tool for writing [W3C](https://www.w3.org/) specifications and other
 
 ## Getting started
 
+
 Grab the [starter spec](examples/starter.html), change the title, add your name as editor, and start writing. Full documentation is at **[respec.org/docs](https://respec.org/docs/)**:
 
 - [Editor's Guide](https://respec.org/docs/) — complete walkthrough for new spec editors
